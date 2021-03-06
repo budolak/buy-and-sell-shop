@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.sell{
+  width: 390px;
+  height: 1800px;
+  border: 5px solid red;
+  padding: 20px;
+}
+.first{
+  width: 100px:
+  height: 150px:
+  border: 2px solid red;
+}
